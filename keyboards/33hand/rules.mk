@@ -1,0 +1,4 @@
+# MCU / �{�[�h�ݒ�
+MCU = RP2040
+# BOARD = GENERIC_RP2040
+BOOTLOADER = rp2040
